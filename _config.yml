@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Vu Dinh Minh"
 title_separator          : "-"
-name                     : &name "Vu Dinh Minh"
+name                     : &name "Home"
 description              : &description "Student in Artificial Intelligence @ FPT University"
 url                      : https://dminhvu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
