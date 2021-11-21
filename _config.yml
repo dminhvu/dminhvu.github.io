@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Minh D. Vu"
 title_separator          : "-"
-name                     : &name "Vu Dinh Minh"
+name                     : &name "Minh D. Vu"
 description              : &description "Student in Artificial Intelligence @ FPT University"
 url                      : https://dminhvu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vu Dinh Minh"
   avatar           : "avatar.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Student in Artificial Intelligence @ FPT University"
   location         : "Ho Chi Minh, Viet Nam"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "dminhvu02"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
