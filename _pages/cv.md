@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the PDF version [here](cv_vudinhminh.pdf).
+You can find the PDF version [here](/files/example.pdf).
 
 Education
 ======
