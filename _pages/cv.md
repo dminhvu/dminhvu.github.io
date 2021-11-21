@@ -12,13 +12,16 @@ redirect_from:
 Education
 ======
 * B.Sc. in Artificial Intelligence, FPT University, 2024 (expected)
+  * GPA: 9.32/10
+  * Full Tuition Scholarship
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021: Team Leader in Class
+  * AI VIETNAM
+  * Responsibilities: Tagging issues
+  * Supervisor: Dr. Hong-Phuc Nguyen & Dr. Quang-Vinh Dinh
   
 Research Interests
 ======
@@ -30,19 +33,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
