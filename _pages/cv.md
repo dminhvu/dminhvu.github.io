@@ -20,9 +20,8 @@ Education
 
 Work experience
 ======
-* 2021: Team Leader in Class
-  * AI VIETNAM
-  * Responsibilities: Tagging issues
+* 2021: Team Leader @ AI VIETNAM Online Class
+  * Responsibilities: Set weekly goals for team members, prepare coding & AI-related exercises after every lesson, and mark members' excercises.
   * Supervisor: Dr. Hong-Phuc Nguyen & Dr. Quang-Vinh Dinh
   
 Research Interests
