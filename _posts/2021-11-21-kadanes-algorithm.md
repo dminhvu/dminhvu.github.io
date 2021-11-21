@@ -11,13 +11,19 @@ Given a 2D matrix, find the maximum sum of a rectangular submatrix in it.
 
 For example, the maximum sum of the matrix is shown below.
 
-![2D Matrix](https://lh3.googleusercontent.com/-7gH58TTJtPc/X_eapQkl1pI/AAAAAAAACU0/4Xf01_Ojeo0PTn-w9ahwvdv219-UIYsRQCLcBGAsYHQ/image.png)
+<div align="center">
+  ![2D Matrix](https://lh3.googleusercontent.com/-7gH58TTJtPc/X_eapQkl1pI/AAAAAAAACU0/4Xf01_Ojeo0PTn-w9ahwvdv219-UIYsRQCLcBGAsYHQ/image.png)
+</div>
+
 
 And the total value of this maximum submatrix is 15.
 
 As far as we know, Kadane's algorithm is used for finding the maximum subarray in a 1D array in O(n) time complexity: From the beginning, start to accumulate every element it goes through. If at a time, the sum is negative, we will reset the sum to 0, because it is always more beneficial to start from 0 rather than a negative value. I made the gif below to make it easier to understand this approach.
 
-![Kadanes algorithm](https://1.bp.blogspot.com/-_ePJbuJPXZ8/YHvv4fFWwRI/AAAAAAAACbE/f8AreUAefHkEE1ygKIW13HhTC82DC4gpwCLcBGAsYHQ/s332/kadane.gif)
+
+<div align="center">
+  ![Kadanes algorithm](https://1.bp.blogspot.com/-_ePJbuJPXZ8/YHvv4fFWwRI/AAAAAAAACbE/f8AreUAefHkEE1ygKIW13HhTC82DC4gpwCLcBGAsYHQ/s332/kadane.gif)
+</div>
 
 The idea for solving the 2D array is similar: We will fix the two columns of the matrix - the left and the right - one by one. Then, we would consider every row of the matrix (lying between two columns) to be an element in a 1D array and apply Kadane's algorithm to this array.
 
