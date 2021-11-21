@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Minh D. Vu"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Minh's home on the web!
-
-Lorem ipsum.
+I am currently pursuing a Bachelor's degree in Artificial Intelligence at FPT University.
