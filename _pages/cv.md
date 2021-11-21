@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+You can find the PDF version [here](cv_vudinhminh.pdf).
 Education
 ======
 * B.Sc. in Artificial Intelligence, FPT University, 2024 (expected)
