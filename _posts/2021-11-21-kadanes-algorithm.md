@@ -12,7 +12,8 @@ Given a 2D matrix, find the maximum sum of a rectangular submatrix in it.
 For example, the maximum sum of the matrix is shown below.
 
 <div align="center">
-  ![2D Matrix](https://lh3.googleusercontent.com/-7gH58TTJtPc/X_eapQkl1pI/AAAAAAAACU0/4Xf01_Ojeo0PTn-w9ahwvdv219-UIYsRQCLcBGAsYHQ/image.png)
+  <img src="https://lh3.googleusercontent.com/-7gH58TTJtPc/X_eapQkl1pI/AAAAAAAACU0/4Xf01_Ojeo0PTn-w9ahwvdv219-UIYsRQCLcBGAsYHQ/image.png" alt="2D Matrix">
+<!--   ![2D Matrix](https://lh3.googleusercontent.com/-7gH58TTJtPc/X_eapQkl1pI/AAAAAAAACU0/4Xf01_Ojeo0PTn-w9ahwvdv219-UIYsRQCLcBGAsYHQ/image.png) -->
 </div>
 
 
@@ -22,7 +23,8 @@ As far as we know, Kadane's algorithm is used for finding the maximum subarray i
 
 
 <div align="center">
-  ![Kadanes algorithm](https://1.bp.blogspot.com/-_ePJbuJPXZ8/YHvv4fFWwRI/AAAAAAAACbE/f8AreUAefHkEE1ygKIW13HhTC82DC4gpwCLcBGAsYHQ/s332/kadane.gif)
+  <img src="https://1.bp.blogspot.com/-_ePJbuJPXZ8/YHvv4fFWwRI/AAAAAAAACbE/f8AreUAefHkEE1ygKIW13HhTC82DC4gpwCLcBGAsYHQ/s332/kadane.gif" alt="Kadane's algorithm">
+<!--   ![Kadanes algorithm](https://1.bp.blogspot.com/-_ePJbuJPXZ8/YHvv4fFWwRI/AAAAAAAACbE/f8AreUAefHkEE1ygKIW13HhTC82DC4gpwCLcBGAsYHQ/s332/kadane.gif) -->
 </div>
 
 The idea for solving the 2D array is similar: We will fix the two columns of the matrix - the left and the right - one by one. Then, we would consider every row of the matrix (lying between two columns) to be an element in a 1D array and apply Kadane's algorithm to this array.
