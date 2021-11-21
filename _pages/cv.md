@@ -17,7 +17,6 @@ Education
   * GPA: 9.32/10
   * Full Tuition Scholarship
 
-
 Work Experience
 ======
 * July 2021: Team Leader @ AI VIETNAM Online Class
@@ -28,6 +27,12 @@ Research Interests
 ======
 * Computer Vision
 * Medical Imaging
+
+Honors & Awards
+======
+* 2020: Second Prize in Vietnam Student Olympiad in Informatics
+* 2020: First Prize in F-Talent Code, FPT University
+
 
 Publications
 ======
