@@ -18,9 +18,9 @@ Education
   * Full Tuition Scholarship
 
 
-Work experience
+Work Experience
 ======
-* 2021: Team Leader @ AI VIETNAM Online Class
+* July 2021: Team Leader @ AI VIETNAM Online Class
   * Responsibilities: Set weekly goals for team members, prepare coding & AI-related exercises after every lesson, and mark members' excercises.
   * Supervisor: Dr. Hong-Phuc Nguyen & Dr. Quang-Vinh Dinh
   
