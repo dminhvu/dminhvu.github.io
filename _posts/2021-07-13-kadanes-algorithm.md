@@ -1,7 +1,7 @@
 ---
 title: "Kadane's algorithm - Finding maximum rectangular submatrix"
-date: 2021-11-21
-permalink: /posts/2021/11/kadanes-algorithm/
+date: 2021-07-13
+permalink: /posts/kadanes-algorithm/
 tags:
   - kadanes algorithm
   - dynamic programming
