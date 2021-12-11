@@ -14,7 +14,7 @@ You can find the PDF version <a href="/files/vudinhminh_cv.pdf" target="_blank">
 Education
 ======
 * B.Sc. in Artificial Intelligence, FPT University, 2024 (expected)
-  * GPA: 9.31/10
+  * GPA: 9.27/10
   * Full Tuition Scholarship
 
 Work Experience
