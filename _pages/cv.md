@@ -19,9 +19,9 @@ Education
 
 Work Experience
 ======
-* July 2021: Team Leader @ AI VIETNAM Online Class
-  * Responsibilities: Set weekly goals for team members, prepare coding & AI-related exercises after every lesson, and mark members' excercises.
-  * Supervisor: Dr. Hong-Phuc Nguyen & Dr. Quang-Vinh Dinh
+* July 2021: Teaching Assistant @ AI VIETNAM Online Class
+  * Responsibilities: Prepare coding & AI-related problems and evaluate members' exercises.
+  * Supervisor: Dr. Hong-Phuc Nguyen
   
 Research Interests
 ======
@@ -34,8 +34,8 @@ Honors & Awards
 * 2020: First Prize in F-Talent Code, FPT University
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
