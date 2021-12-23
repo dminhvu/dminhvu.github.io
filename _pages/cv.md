@@ -26,7 +26,6 @@ Work Experience
 Research Interests
 ======
 * Computer Vision
-* Medical Imaging
 
 Honors & Awards
 ======
