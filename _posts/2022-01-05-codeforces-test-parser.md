@@ -49,4 +49,4 @@ For example: ```.\run A``` for testing problem A.
 
 * This parser is C++-first, which means it will build Python file only after no C++ file has been found.
 
-If you find this repository useful, please give it a star :star:!
+If you find this repository useful, please give it a star ⭐!
