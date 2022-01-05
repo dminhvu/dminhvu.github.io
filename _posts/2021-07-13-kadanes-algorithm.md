@@ -22,7 +22,7 @@ As far as we know, Kadane's algorithm is used for finding the maximum subarray i
 
 
 <div align="center">
-  <img src="https://1.bp.blogspot.com/-_ePJbuJPXZ8/YHvv4fFWwRI/AAAAAAAACbE/f8AreUAefHkEE1ygKIW13HhTC82DC4gpwCLcBGAsYHQ/s332/kadane.gif" alt="Kadane's algorithm">
+  <img src="https://i.imgur.com/E3oJPyY.gif" alt="Kadane's algorithm">
 </div>
 
 The idea for solving the 2D array is similar: We will fix the two columns of the matrix - the left and the right - one by one. Then, we would consider every row of the matrix (lying between two columns) to be an element in a 1D array and apply Kadane's algorithm to this array.
