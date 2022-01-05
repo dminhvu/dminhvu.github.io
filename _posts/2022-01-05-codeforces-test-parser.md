@@ -1,13 +1,11 @@
 ---
-title: "Codeforces Test Parser for C/C++ and Python on Windows"
+title: "Codeforces Test Parser for C/C++ & Python on Windows"
 date: 2022-01-05
 permalink: /posts/codeforces-test-parser/
 tags:
   - competitive programming
   - codeforces
 ---
-
-# Codeforces Test Parser for C/C++ & Python on Windows
 
 Please visit the original repository <a href="https://github.com/dminhvu/codeforces_test_parser" target='_blank'>here</a>.
 <p align="center">
