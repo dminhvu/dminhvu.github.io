@@ -21,7 +21,7 @@ Work Experience
 ======
 * July 2021: Teaching Assistant @ AI VIETNAM Online Class
   * Responsibilities: Prepare coding & AI-related problems and evaluate members' exercises.
-  * Supervisor: Dr. Hong-Phuc Nguyen
+  * Supervisor: Dr. Nguyen Hong Phuc
   
 Research Interests
 ======
