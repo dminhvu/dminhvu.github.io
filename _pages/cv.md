@@ -19,10 +19,15 @@ Education
 
 Work Experience
 ======
-* July 2021: Teaching Assistant @ AI VIETNAM Online Class
+* Teaching Assistant @ AI VIETNAM Online Class, Jul 2021 - Present
   * Responsibilities: Prepare coding & AI-related problems and evaluate members' exercises.
   * Supervisor: Dr. Nguyen Hong Phuc
-  
+
+Research Experience
+======
+* Research Student @ FPT University, Nov 2021 - Present
+
+
 Research Interests
 ======
 * Computer Vision
