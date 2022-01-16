@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 I am currently pursuing a Bachelor's degree in Artificial Intelligence at FPT University.
+Please click <a href="/cv" target="_blank">here</a> to get to know more about me.
