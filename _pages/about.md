@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the full PDF version <a href="/files/vudinhminh_cv.pdf" target="_blank">here</a>.
+You can find the full PDF version of my resume <a href="/files/vudinhminh_cv.pdf" target="_blank">here</a>.
 
 Education
 ======
@@ -22,6 +22,7 @@ Education
 
 Work Experience
 ======
+* Machine Learning Intern @ <a href="deltacognition.com" target="_blank">Delta Cognition</a>, Feb 2022 - Present
 * Teaching Assistant @ AI VIETNAM Online Class, Jul 2021 - Present
   * Responsibilities: Prepare coding & AI-related problems and evaluate members' exercises.
   * Supervisor: Dr. Nguyen Hong Phuc
@@ -29,7 +30,6 @@ Work Experience
 Research Experience
 ======
 * Research Student @ FPT University, Nov 2021 - Present
-
 
 Research Interests
 ======
