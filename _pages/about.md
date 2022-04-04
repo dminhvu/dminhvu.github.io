@@ -38,7 +38,8 @@ Research Interests
 
 Honors & Awards
 ======
-* 2020: Second Prize in Vietnam Student Olympiad in Informatics
+* 2022: Third Prize in 2021 ICPC Asia Hanoi Regional Contest
+* 2020: Second Prize in Vietnam Olympiad in Informatics for Undergraduates
 * 2020: First Prize in F-Talent Code, FPT University
 
 
