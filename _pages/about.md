@@ -27,10 +27,6 @@ Work Experience
   * Responsibilities: Prepare coding & AI-related problems and evaluate members' exercises.
   * Supervisor: Dr. Nguyen Hong Phuc
 
-Research Experience
-======
-* Research Student @ FPT University, Nov 2021 - Present
-
 Research Interests
 ======
 * Computer Vision
