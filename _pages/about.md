@@ -20,6 +20,7 @@ Education
   * GPA: 9.36/10
   * Full Tuition Scholarship
 
+
 Work Experience
 ======
 * Machine Learning Intern @ <a href="https://deltacognition.com" target="_blank">Delta Cognition</a>, Feb 2022 - Present
@@ -27,9 +28,20 @@ Work Experience
   * Responsibilities: Prepare coding & AI-related problems and evaluate members' exercises.
   * Supervisor: Dr. Nguyen Hong Phuc
 
+
 Research Interests
 ======
 * Computer Vision
+
+
+Certificates
+======
+* 2021: Deep Learning Specialization, Coursera
+  * Neural Networks and Deep Learning
+  * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+  * Convolutional Neural Networks
+* 2020: IELTS Academic (6.5 Overall)
+
 
 Honors & Awards
 ======
