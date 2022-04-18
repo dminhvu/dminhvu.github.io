@@ -25,8 +25,6 @@ Work Experience
 ======
 * Machine Learning Intern @ <a href="https://deltacognition.com" target="_blank">Delta Cognition</a>, Feb 2022 - Present
 * Teaching Assistant @ AI VIETNAM Online Class, Jul 2021 - Present
-  * Responsibilities: Prepare coding & AI-related problems and evaluate members' exercises.
-  * Supervisor: Dr. Nguyen Hong Phuc
 
 
 Research Interests
