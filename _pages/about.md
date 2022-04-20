@@ -8,6 +8,7 @@ redirect_from:
   - /cv
   - /about/
   - /about.html
+  - /1
 ---
 
 {% include base_path %}
