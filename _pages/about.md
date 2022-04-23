@@ -24,7 +24,8 @@ Education
 
 Work Experience
 ======
-* Machine Learning Intern @ <a href="https://deltacognition.com" target="_blank">Delta Cognition</a>, Feb 2022 - Present
+* Machine Learning Engineer @ [TBD], Mar 2022 - Present
+* Machine Learning Intern @ <a href="https://deltacognition.com" target="_blank">Delta Cognition</a>, Feb 2022 - Mar 2022
 * Teaching Assistant @ AI VIETNAM Online Class, Jul 2021 - Present
 
 
