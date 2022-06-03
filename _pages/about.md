@@ -26,12 +26,7 @@ Work Experience
 ======
 * Machine Learning Engineer @ <a href="https://www.cpay.technology" target="_blank">cPay Technology</a>, Mar 2022 - Present
 * Machine Learning Intern @ <a href="https://deltacognition.com" target="_blank">Delta Cognition</a>, Feb 2022 - Present
-* Teaching Assistant @ AI VIETNAM Online Class, Jul 2021 - Present
-
-
-Research Interests
-======
-* Computer Vision
+* Teaching Assistant @ AI VIETNAM Online Class, Jul 2021 - May 2022
 
 
 Certificates
