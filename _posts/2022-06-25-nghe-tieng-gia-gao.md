@@ -7,7 +7,7 @@ tags:
 ---
 
 <div align="center">
-  <img src="images/../../images/ho_chi_minh.jpg" alt="Hồ Chí Minh">
+  <img src="/images/ho_chi_minh.jpg" alt="Hồ Chí Minh">
 </div>
 
 <div align="center">
