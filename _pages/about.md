@@ -24,8 +24,7 @@ Education
 
 Work Experience
 ======
-* Machine Learning Engineer @ <a href="https://www.cpay.technology" target="_blank">cPay Technology</a>, Mar 2022 - Present
-* Machine Learning Intern @ <a href="https://deltacognition.com" target="_blank">Delta Cognition</a>, Feb 2022 - Present
+* Machine Learning Engineer @ <a href="https://www.cpay.technology" target="_blank">cPay Technology</a>, Feb 2022 - June 2022
 * Teaching Assistant @ AI VIETNAM Online Class, Jul 2021 - May 2022
 
 
@@ -40,6 +39,7 @@ Certificates
 
 Honors & Awards
 ======
+* 2022: Top 5 Excellent Student in Engineering Field, Spring 2022 Semester, FPT University
 * 2022: Third Prize in The 2021 ICPC Asia Hanoi Regional Contest
 * 2020: Second Prize in Vietnam Olympiad in Informatics for Undergraduates
 * 2020: First Prize in F-Talent Code, FPT University
