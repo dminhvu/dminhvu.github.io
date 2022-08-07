@@ -13,7 +13,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the full PDF version of my resume <a href="/files/vudinhminh_cv.pdf" target="_blank">here</a> and my transcript <a href="/files/vudinhminh_transcript.pdf" target="_blank">here</a>.
+You can find the full PDF version of my resume <a href="/files/vudinhminh_cv.pdf" target="_blank">here</a>.
+ <!-- and my transcript <a href="/files/vudinhminh_transcript.pdf" target="_blank">here</a>. -->
 
 Education
 ======
