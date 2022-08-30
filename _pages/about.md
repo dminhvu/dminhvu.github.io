@@ -13,7 +13,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the full PDF version of my resume <a href="/files/vudinhminh_cv.pdf" target="_blank">here</a>.
+You may find the full PDF version of my resume <a href="/files/vudinhminh_cv.pdf" target="_blank">here</a>.
  <!-- and my transcript <a href="/files/vudinhminh_transcript.pdf" target="_blank">here</a>. -->
 
 Education
@@ -26,7 +26,7 @@ Education
 Work Experience
 ======
 * Machine Learning Engineer @ <a href="https://www.cpay.technology" target="_blank">cPay Technology</a>, Feb 2022 - June 2022
-* Teaching Assistant @ AI VIETNAM Online Class, Jul 2021 - May 2022
+* Teaching Assistant @ <a href="https://www.facebook.com/aivietnam.edu.vn" target="_blank">AI VIETNAM Online Class</a>, Jul 2021 - May 2022
 
 
 Certificates
