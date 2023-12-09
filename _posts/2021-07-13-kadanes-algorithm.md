@@ -7,6 +7,8 @@ tags:
   - dynamic programming
 ---
 
+> Latest post is update [here](https://dminhvu.com/kadanes-algorithm-for-2d-matrix).
+
 Given a 2D matrix, find the maximum sum of a rectangular submatrix in it. 
 
 For example, the maximum sum of the matrix is shown below.
